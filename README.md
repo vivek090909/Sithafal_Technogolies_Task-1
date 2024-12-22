@@ -122,14 +122,3 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-## Author
-
-[Your Name](https://github.com/vivek090909)  
-Feel free to reach out with suggestions, questions, or issues.
-```
-
-### Customization Notes:
-- Replace `script_name.py` with your actual script filename.
-- Replace `your-username` and other placeholders with your GitHub username and project-specific details.
